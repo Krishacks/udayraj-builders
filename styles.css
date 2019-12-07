@@ -130,7 +130,17 @@ form .aline-button:hover {
   background: #f7b71d;
   cursor: pointer;
 }
+footer {
+  background-image: url("images/sec1.jpg");
+  height: auto;
+  opacity: 80%
+}
+.footer-p {
+  margin-top: 10px;
+  padding: 10px;
+  opacity: 50%;
 
+}
 
 
 
